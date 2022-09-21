@@ -6,8 +6,6 @@ Currently I am an undergraduate student, [Computer Science and Engineering](http
 
 ## Contact Me
 
-* Work: saif.mohammed@ieee.org
-
 * Academic: rafidul.islam19@northsouth.edu
 
 * Personal: rafidislam36@gmail.com
