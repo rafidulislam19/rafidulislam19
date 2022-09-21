@@ -1,4 +1,4 @@
-# 💫 About Me:
+#About Me:
 Currently I am an undergraduate student, Computer Science and Engineering program, Department of Electrical and Computer Engineering at North South University, Bashundhara R/A, Dhaka, Bangladesh. 
 
 
