@@ -17,9 +17,9 @@ Currently I am an undergraduate student, [Computer Science and Engineering](http
 
 <a href="https://twitter.com/RafidIslam05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nipunsaif" height="30" width="40" /></a>
 <a href="https://github.com/rafidulislam19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rafidulislam" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rafidul-islam-37b50423a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipunsaif" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rafidislam.hridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nipun.saif" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rafid131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saifmohammednipun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rafidul-islam-37b50423a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafidulislam" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rafidislam.hridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafidislam" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rafid131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafidislam" height="30" width="40" /></a>
 
 </p>
 
