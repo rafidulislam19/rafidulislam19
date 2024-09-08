@@ -1,14 +1,14 @@
 
 # Hi there, I am Rafidul Islam
 
-Currently I am an undergraduate student, [Computer Science and Engineering](http://ece.northsouth.edu/undergraduate/academics/programs/bs-cse/) program, Department of [Electrical and Computer Engineering](http://ece.northsouth.edu/) at [North South University](http://www.northsouth.edu/), Bashundhara R/A, Dhaka, Bangladesh.
+Officer at BRAC Bank PLC, Technology Division, specializing in Software Development. With a BSc in Computer Science and Engineering from North South University, I have a strong foundation in coding, system design, and project management. My work focuses on developing and maintaining innovative banking solutions. Enthusiastic about clean code, system optimization, and scalable solutions. Constantly exploring new technologies and contributing to impactful projects.
 
 
 ## Contact Me
 
 * Academic: rafidul.islam19@northsouth.edu
 
-* Personal: rafidislam36@gmail.com
+* Personal: rafidulislam057@gmail.com
 
 
 ## Social Links
