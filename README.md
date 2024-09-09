@@ -6,7 +6,7 @@ Officer at BRAC Bank PLC, Technology Division, specializing in Software Developm
 
 ## Contact Me
 
-* Academic: rafidul.islam19@northsouth.edu
+* Professional: rafidul.islam34812@bracbank.com
 
 * Personal: rafidulislam057@gmail.com
 
