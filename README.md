@@ -15,7 +15,7 @@ Officer at BRAC Bank PLC, Technology Division, specializing in Software Developm
 
 <p align="left">
 
-<a href="https://github.com/rafidulislam19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rafidulislam" height="30" width="40" /></a>
+<a href="https://github.com/rafidulislam19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rafidulislam" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/rafidul-islam-37b50423a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafidulislam" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rafidislam.hridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafidulislam" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rafid131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafidulislam" height="30" width="40" /></a>
